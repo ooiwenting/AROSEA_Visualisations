@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "added large GIF"
+git remote add origin https://github.com/Voyz/voyz_public.git -
+git push
